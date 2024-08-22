@@ -1,4 +1,4 @@
-# Excel-analytics-project
+# Excel-analytics-projects
 
 
 ## Case study 1 - Consumer complaint analysis
