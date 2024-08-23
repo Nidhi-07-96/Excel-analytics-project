@@ -1,7 +1,7 @@
 # Excel-analytics-project-1
 
 
-## Case study 1 - Consumer complaint analysis
+## Consumer complaint analysis
 
 ## Table of contents
 
